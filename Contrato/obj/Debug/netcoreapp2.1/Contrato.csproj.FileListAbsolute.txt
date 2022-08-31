@@ -1,0 +1,13 @@
+C:\Users\User\ws-vs2022\Contrato\Contrato\obj\Debug\netcoreapp2.1\Contrato.csproj.AssemblyReference.cache
+C:\Users\User\ws-vs2022\Contrato\Contrato\obj\Debug\netcoreapp2.1\Contrato.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\ws-vs2022\Contrato\Contrato\obj\Debug\netcoreapp2.1\Contrato.AssemblyInfoInputs.cache
+C:\Users\User\ws-vs2022\Contrato\Contrato\obj\Debug\netcoreapp2.1\Contrato.AssemblyInfo.cs
+C:\Users\User\ws-vs2022\Contrato\Contrato\obj\Debug\netcoreapp2.1\Contrato.csproj.CoreCompileInputs.cache
+C:\Users\User\ws-vs2022\Contrato\Contrato\bin\Debug\netcoreapp2.1\Contrato.deps.json
+C:\Users\User\ws-vs2022\Contrato\Contrato\bin\Debug\netcoreapp2.1\Contrato.runtimeconfig.json
+C:\Users\User\ws-vs2022\Contrato\Contrato\bin\Debug\netcoreapp2.1\Contrato.runtimeconfig.dev.json
+C:\Users\User\ws-vs2022\Contrato\Contrato\bin\Debug\netcoreapp2.1\Contrato.dll
+C:\Users\User\ws-vs2022\Contrato\Contrato\bin\Debug\netcoreapp2.1\Contrato.pdb
+C:\Users\User\ws-vs2022\Contrato\Contrato\obj\Debug\netcoreapp2.1\Contrato.dll
+C:\Users\User\ws-vs2022\Contrato\Contrato\obj\Debug\netcoreapp2.1\Contrato.pdb
+C:\Users\User\ws-vs2022\Contrato\Contrato\obj\Debug\netcoreapp2.1\Contrato.genruntimeconfig.cache
